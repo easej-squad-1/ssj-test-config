@@ -1,1 +1,1 @@
-# sample-config hello
+# sample-config
